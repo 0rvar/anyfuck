@@ -6,7 +6,7 @@ version = "0.1.0"
 authors = ["Orvar <orvarsegerstrom@gmail.com>"]
 categories = ["simulation"]
 description = "Brainfuck/Ook/Blub interpreter"
-homepage = "https://github.com/0rvar/anyfuck"
+repository = "https://github.com/0rvar/anyfuck"
 keywords = ["brainfuck", "interpreter", "binary"]
 license = "MIT"
 
